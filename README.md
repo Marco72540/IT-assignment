@@ -1,4 +1,4 @@
-# IT-assignment
+# IT-project
 Suppose you are a web developer of Internet Technology News, a website which hosts technology
 news, reviews and archives that help readers easily understand how technology affects the way they
 live. The editor of Internet Technology News wants two web page sections – the first section
